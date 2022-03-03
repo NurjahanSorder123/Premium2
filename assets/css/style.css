@@ -148,12 +148,11 @@
 .word-con2{
     justify-content: right;
 }
-.header h5{
+.header span{
     color: #c7b299;
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
     font-weight: 400;
-    margin-right: 5px;
 }
 .header h6{
     color: #ffffff;
@@ -268,9 +267,9 @@
 }
 /* Icon Part Start */
 .pro-icon{
-    background: rgba(0,0,0, 0);;
+    background: rgba(0,0,0, 0.5);
     width: 100%;
-    height: 72%;
+    height: 100%;
     position: absolute;
     top: 0;
     left: 0;
@@ -284,6 +283,7 @@
     margin-right: 10px;
     color: #988574;
     cursor: pointer;
+    margin-bottom: 80px;
 }
 .pro-icon i:hover{
     color: #ffffff;

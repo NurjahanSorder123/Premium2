@@ -1,0 +1,175 @@
+@media(max-width: 576px){
+/* Navbar Part Start */
+.navbar-part .container{
+    width: 100% !important;
+}
+.navbar-brand img{
+    width: 155px !important;
+}
+.bg-content h6 {
+    font-size: 30px !important;
+  }
+.bg-content h5 {
+    font-size: 45px !important;
+  }
+/* Navbar Part End */
+/* Service Part Start */
+.service-part .container{
+    width: 100% !important;
+}
+/* Service Part End */
+/* idea Part Start */
+.idea-part .container{
+    width: 100% !important;
+}
+.idea-content h5 {
+    font-size: 29px !important;
+  }
+/* idea Part End */
+/* Wordpres Part Start */
+.word-part .container{
+    width: 100% !important;
+}
+.word-con p {
+    text-align: center !important;
+  }
+.header{
+    text-align: center !important;
+}
+/* Wordpres Part End */
+/* Project Part Start */
+.project-part .container{
+    width: 100% !important;
+}
+.button1 {
+    padding: 4.5px 7px !important;
+    margin-left: 12px !important;
+  }
+.button2 {
+    padding: 4.5px 6px !important;
+  }
+/* Project Part End */
+/* Mobile Part Start */
+.mobile-part .container{
+    width: 100% !important; 
+}
+.mobile-head{
+    text-align: center !important;
+}
+/* Mobile Part End */
+/* Counter Part Start */
+.counter-part .container{
+    width: 100% !important;
+}
+.count-con {
+    padding-top: 14px !important;
+  }
+/* Counter Part End */
+/* Team Part Start */
+.team-part .container{
+    width: 100% !important;
+}
+.team-header h5 {
+    font-size: 45px !important;
+  }
+/* Team Part End */
+/* Company Part Start */
+.company-part .container{
+    width: 100% !important;
+}
+.comp-con-main {
+    padding-top: 40px !important;
+    padding-bottom: 80px !important;
+  }
+.company-img2 img{
+    margin-bottom: 35px !important;
+}
+.company-img4 img {
+    margin-top: 50px !important;
+  }
+.company-img2, .company-img, .company-img3, .company-img4{
+    text-align: center !important;
+}
+/* Company Part End */
+/* Footer Part Start */
+.footer-part .container{
+    width: 100% !important;
+}
+.foot-con-mai2, .foot-con-mai, .foot-com-mai3, .foot-con-mai-4{
+    text-align: center !important;
+}
+.img2 {
+    margin-left: 0px !important;
+  }
+/* Footer Part End */
+/* Copy Right Part Start*/
+.copy-right .container{
+    width: 100% !important;
+}
+/* Copy Right End */
+}
+@media(max-width: 768px){
+/* Wordpres Part Start */
+.word-con2 {
+    justify-content: center !important;
+  }
+.now {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 20px !important; 
+  }
+/* Wordpres Part End */
+/* Project Part Start */
+.button3-section {
+    margin-left: 0px !important;
+    margin-top: 15px !important;
+  }
+/* Project Part End */
+}
+@media(max-width: 992px){
+/* Navbar Part Start */
+.navbar-light .navbar-toggler {
+    color: rgb(251, 251, 251) !important;
+    border-color: rgb(251, 251, 251) !important;
+  }
+.navbar-toggler {
+    background-color: #fff;
+  }
+.nav-item{
+    text-align: center !important;
+}
+/* Navbar Part End */
+/* Mobile Part Start */
+.mobile-con{
+    display: none !important;
+}
+.mobile-con2 {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+  }
+/* Mobile Part End */
+/* Copy Right Part Start */
+.copy-con-mai{
+    display: block !important;
+    text-align: center !important;
+}
+.copy-con{
+    justify-content: center !important;
+}
+.copy-con-mai2{
+    display: block !important;
+    text-align: center !important;
+    margin-left: 0 !important;
+}
+.copy-con2{
+    justify-content: center !important;
+}
+/* Copy Right Part End */
+}
+@media(max-width: 1200px){
+/* Footer Part Start */
+.foot-con-mai-4{
+    overflow: hidden !important;
+}
+/* Footer Part End */
+}
